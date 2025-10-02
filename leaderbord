@@ -699,7 +699,7 @@
         <!-- Reset Button -->
         <div class="text-center">
             <button onclick="resetScores()" class="cyber-btn reset-btn">
-                Score
+                To be continued..
             </button>
         </div>
     </div>
